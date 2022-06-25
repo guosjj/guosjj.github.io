@@ -1515,7 +1515,7 @@ a.has-text-grey-lightest:focus {
   background-color: transparent;
   box-shadow: none, 0 0 1px rgba(0,0,0,0.1);
   color: #cdcdcd;
-  max-width: 100%;
+  max-width: 62vw;
   position: relative;
 }
 .card-header {
